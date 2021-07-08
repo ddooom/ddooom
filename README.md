@@ -1,8 +1,3 @@
-
-<table>
-<tr>
-<td width="493x" height="170px">
-   
 ## About Dongwoo
    
 - 📝 [CV]()
@@ -12,13 +7,19 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Python&logoColor=white"/></a>
   
-</td>
-</tr>
-<table>
-
 
 
 <!--
+
+# Table format
+<table>
+<tr>
+<td width="493x" height="170px">
+   
+
+</td>
+</tr>
+<table>
 
 # Git 통계
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddooom)](https://github.com/anuraghazra/github-readme-stats)
