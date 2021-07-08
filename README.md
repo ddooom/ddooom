@@ -1,7 +1,7 @@
 ## About Dongwoo
    
-- 📝 [CV]()
-- 📚 [PORTFOLIO: My Strengths]()
+- 📝 [CV](https://github.com/ddooom/ddooom/blob/main/CV%20(ver.%20210708).pdf)
+- 📚 [PORTFOLIO: My Strengths](https://github.com/ddooom/ddooom/blob/main/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%20(ver.%20210708).pdf)
 - 🛠️ SKILLS
   
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
