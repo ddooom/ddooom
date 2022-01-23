@@ -1,6 +1,6 @@
 ## About Dongwoo
    
-- 📝 [CV](https://github.com/ddooom/ddooom/blob/main/CV%20(ver.%20210708).pdf)
+- 📝 [CV](https://github.com/ddooom/ddooom/blob/main/CV%20%EA%B9%80%EB%8F%99%EC%9A%B0.pdf)
 - 📚 [PORTFOLIO: My Strengths](https://github.com/ddooom/ddooom/blob/main/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%20(ver.%20210708).pdf)
 - 🛠️ SKILLS
   
