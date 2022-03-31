@@ -1,14 +1,15 @@
 ## About Dongwoo
    
-- 📝 [CV](https://github.com/ddooom/ddooom/blob/main/CV%20%EA%B9%80%EB%8F%99%EC%9A%B0.pdf)
-- 📚 [PORTFOLIO: My Strengths](https://github.com/ddooom/ddooom/blob/main/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%20(ver.%20210708).pdf)
-- 🛠️ SKILLS
-  
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/></a>
-  
+[![CV](https://img.shields.io/badge/CV-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ddooom/ddooom/blob/main/CV%20%EA%B9%80%EB%8F%99%EC%9A%B0.pdf)
+[![PF:Work](https://img.shields.io/badge/PORTFOLIO:Work_Experience-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ddooom/ddooom/blob/main/%EA%B2%BD%EB%A0%A5%20%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pdf)
+[![PF:Strength](https://img.shields.io/badge/PORTFOLIO:Strengths-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ddooom/ddooom/blob/main/%EA%B2%BD%EB%A0%A5%20%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pdf)
+[![링크드인](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EB%8F%99%EC%9A%B0-%EA%B9%80-680a12229/)
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![Pytorch](https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=mrkim882)](https://solved.ac/mrkim882)
 
 <!--
 # badge format
