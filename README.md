@@ -1,7 +1,5 @@
 ## About Dongwoo
-   
-[![CV](https://img.shields.io/badge/CV-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ddooom/ddooom/blob/main/CV_%EA%B9%80%EB%8F%99%EC%9A%B0.pdf)
-[![PF:Work](https://img.shields.io/badge/PORTFOLIO:Work_Experience-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ddooom/ddooom/blob/main/%EA%B2%BD%EB%A0%A5%20%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4_%EA%B9%80%EB%8F%99%EC%9A%B0.pdf)
+  
 [![블로그](https://img.shields.io/badge/Blog-red.svg?&style=for-the-badge)](https://ddooom.tistory.com/)
 [![링크드인](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EB%8F%99%EC%9A%B0-%EA%B9%80-680a12229/)
 
@@ -43,4 +41,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[![CV](https://img.shields.io/badge/CV-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ddooom/ddooom/blob/main/CV_%EA%B9%80%EB%8F%99%EC%9A%B0.pdf)
+[![PF:Work](https://img.shields.io/badge/PORTFOLIO:Work_Experience-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ddooom/ddooom/blob/main/%EA%B2%BD%EB%A0%A5%20%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4_%EA%B9%80%EB%8F%99%EC%9A%B0.pdf)
 -->
